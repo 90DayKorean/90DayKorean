@@ -1,5 +1,7 @@
 
-👋 Welcome to 90DayKorean's GitHub!
+
+## 👋 Welcome to 90DayKorean's GitHub!
+
 🌟 **Learn Korean 10x faster with structured and fun resources!**
 At 90DayKorean, we aim to make Korean language learning engaging, effective,
 and accessible to everyone.
