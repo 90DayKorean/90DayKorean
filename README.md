@@ -35,7 +35,7 @@ can get started:
 ## 📞 Contact Us
 - **Website:** [90DayKorean.com](https://www.90daykorean.com)
 - **Email:** support@90daykorean.com
-- **X:**[@90DayKorean](https://twitter.com/90daykorean)
+- **X:** [@90DayKorean](https://twitter.com/90daykorean)
 - **Youtube:** [@90DayKorean](https://www.youtube.com/90daykoreanofficial/)
 - **Facebook:**[@90DayKorean](https://www.facebook.com/90DayKorean)
 - **Pinterest:**[@90DayKorean](https://www.pinterest.com/90daykorean/)
