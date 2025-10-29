@@ -23,3 +23,21 @@ vocabulary learning.
 ### 2️⃣[Spaced Repetition Quiz Tool](
 > An interactive quiz app for practicing words and phrases using spaced
 repetition algorithms.
+
+## 💡 How You Can Contribute
+We welcome contributors from all over the world!
+If you want to help us create amazing Korean learning resources, here’s how you
+can get started:
+- Report bugs or suggest features via [Issues](#).
+- Fork and submit your pull requests for any of our repositories.
+- Share ideas or collaborate with us on new projects.
+---
+## 📞 Contact Us
+- **Website:** [90DayKorean.com](https://www.90daykorean.com)
+- **Email:** support@90daykorean.com
+- **X:**[@90DayKorean](https://twitter.com/90daykorean)
+- **Youtube:** [@90DayKorean](https://www.youtube.com/90daykoreanofficial/)
+- **Facebook:**[@90DayKorean](https://www.facebook.com/90DayKorean)
+- **Pinterest:**[@90DayKorean](https://www.pinterest.com/90daykorean/)
+- **Reddit:**[@90DayKorean](https://www.reddit.com/user/90DayKoreanOfficial/))
+Join us and make learning Korean a breeze! 🎉
