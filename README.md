@@ -40,4 +40,5 @@ can get started:
 - **Facebook:**[@90DayKorean](https://www.facebook.com/90DayKorean)
 - **Pinterest:**[@90DayKorean](https://www.pinterest.com/90daykorean/)
 - **Reddit:**[@90DayKorean](https://www.reddit.com/user/90DayKoreanOfficial/))
+
 Join us and make learning Korean a breeze! 🎉
